@@ -8,6 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          Um app maneiro feito para usuários maneiros.
+        </p>
+        <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
