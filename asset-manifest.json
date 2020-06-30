@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/case-converter/static/css/main.5f361e03.chunk.css",
+    "main.js": "/case-converter/static/js/main.91df2734.chunk.js",
+    "main.js.map": "/case-converter/static/js/main.91df2734.chunk.js.map",
+    "runtime-main.js": "/case-converter/static/js/runtime-main.2b411092.js",
+    "runtime-main.js.map": "/case-converter/static/js/runtime-main.2b411092.js.map",
+    "static/js/2.25a2c37b.chunk.js": "/case-converter/static/js/2.25a2c37b.chunk.js",
+    "static/js/2.25a2c37b.chunk.js.map": "/case-converter/static/js/2.25a2c37b.chunk.js.map",
+    "index.html": "/case-converter/index.html",
+    "precache-manifest.dd5d8cacba9ebec571d68cf43ed21123.js": "/case-converter/precache-manifest.dd5d8cacba9ebec571d68cf43ed21123.js",
+    "service-worker.js": "/case-converter/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/case-converter/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.25a2c37b.chunk.js.LICENSE.txt": "/case-converter/static/js/2.25a2c37b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/case-converter/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b411092.js",
+    "static/js/2.25a2c37b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.91df2734.chunk.js"
+  ]
+}
